@@ -23,8 +23,8 @@
     * UserDao
 
 ### Project Summery
-> The purpose behind creating an Expense Tracker API is to help individuals manage their finances effectively by keeping track of their expenses. The API aims to provide a simple and convenient way for users to record their expenses and analyze their spending habits.
-> The API allows users to easily input their expenses, which are then stored in a database. Users can retrieve their expense records on demand, either for the current month or up until the current date. This enables users to track their spending and identify areas where they may be overspending or where they can cut back to achieve their financial goals.
+The purpose behind creating an Expense Tracker API is to help individuals manage their finances effectively by keeping track of their expenses. The API aims to provide a simple and convenient way for users to record their expenses and analyze their spending habits.
+The API allows users to easily input their expenses, which are then stored in a database. Users can retrieve their expense records on demand, either for the current month or up until the current date. This enables users to track their spending and identify areas where they may be overspending or where they can cut back to achieve their financial goals.
 
 ## Links
   ### There are proper mapping given in the controller through which one can access the APIs by cloning it into their device
