@@ -7,17 +7,17 @@
 
 ### Data Flow
 * Controller : 
-  * In this Application am used three 3 controller
+  * In this Application 3 controllers are used :
     * ExpenseController
     * StatusController
     * UserController
 * Service
-  * In this Application am used three 3 Service
+  * In this Application 3 services are used :
     * ExpenseService
     * StatusService
     * UserService
 * Dao
-  * In this Application am used three 3 Dao
+  * In this Application 3 repositories are used :
     * ExpenseDao
     * StatusDao
     * UserDao
